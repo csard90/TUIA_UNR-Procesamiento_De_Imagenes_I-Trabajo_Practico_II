@@ -1,4 +1,18 @@
-# TP2 Procesamiento de Imágenes
+Fecha: 11/2023
+
+# Trabajo Práctico II - Procesamiento de Imagenes I - Tecnicatura Universitaria en Inteligencia Artifical (UNR)
+
+## Integrantes: 
+
+* DONNARUMMA, César Julián.
+* DEMARRE, Lucas.
+* MUSSI, Miguel.
+* MENESCALDI, Brisa
+
+## Temas:
+
+* Deteccion y clasificacion de monedas y dados.
+* Deteccion de patentes.
 
 ## Instrucciones para ejecutar el Trabajo Práctico
 
